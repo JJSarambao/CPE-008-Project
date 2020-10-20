@@ -179,6 +179,9 @@ a {
 a:hover {
     text-decoration: underline
 }
+table{
+    text-align: center;
+}
 tr:hover td:hover {
     background-color: #c61;
 }
@@ -238,5 +241,18 @@ p {
 }
 #content{
     margin-left: 60%;
-    margin-top: -15%;
+    margin-top: -50%;
+    border-radius: 15px;
+}
+.LinksWithLogos{
+    display: inline-block;
+}
+#SocietyLinks{
+    font-size: 20px;
+    margin-left: 100px;
+    padding-bottom: -10%;
+}
+
+#logo{
+    border-radius: 10px;
 }
