@@ -180,11 +180,8 @@ a:hover {
     text-decoration: underline
 }
 table{
-    text-align: center;
+    text-align: left;
     font-size: 20px;
-}
-tr:hover td:hover {
-    background-color: #c61;
 }
 #Background {
     position: relative;
@@ -192,30 +189,9 @@ tr:hover td:hover {
     left: 10px;
     border-radius: 20px;
 }
-.greet {
-    position: relative;
-    top: 0px;
-    left: 47%;
-}
-input {
-    color: white;
-    background-color: #f6a;
-}
-#last {
-    position: relative;
-    text-align: center;
-    top: 0px;
-    color: white;
-}
 #starttext {
     color: white;
     font-size: 20px;
-    margin: 15px;
-    padding-top: 20px;
-}
-#questions {
-    color: white;
-    font-size: 25px;
     margin: 15px;
     padding-top: 20px;
 }
@@ -225,25 +201,9 @@ p {
     margin: 15px;
     padding-top: 5px;
 }
-#pwv {
-    color: white;
-    font-size: 20px;
-    margin-left: 15px;
-    margin-right: 45%;
-    padding-top: 5px;
-}
-#video1 {
-    margin-top: -22%;
-    margin-left: 60%;
-}
 #creds{
     font-size: 15px;
     text-align: center;
-}
-#content{
-    margin-left: 60%;
-    margin-top: -63%;
-    border-radius: 15px;
 }
 .LinksWithLogos{
     display: inline-block;
